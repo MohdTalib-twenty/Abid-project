@@ -1,0 +1,27 @@
+.user-detail{
+    width: 50rem;
+    border: 2px solid grey;
+    box-shadow: 2px 2px 2px 2px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20rem;
+}
+.Burner{
+    color: rgb(241, 109, 27);
+   background-color: rgba(255, 255, 255, 0.897);
+   box-shadow: 2px 2px 2px 2px;
+    
+}
+.dots{
+    color: orangered;
+    font-size: 30px;
+}
+.dota{
+    color: green;
+    font-size: 30px;
+}
+
+.spent p{
+    font-size: 15px;
+    font-weight: 500;
+}
